@@ -1,0 +1,4 @@
+void printFrequency(int n)
+{
+  
+}
